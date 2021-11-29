@@ -3,7 +3,7 @@
 For different versions of IMQ (haiyanwu3@gmail.com)
 
 ## English version 
-### option 1
+### Option 1
 
 Qualtrics and using R to calculate the scores
 
@@ -12,11 +12,11 @@ Qualtrics and using R to calculate the scores
         IMQdata <- IMQdata %>% dplyr::mutate(IMQ_SO = 5-IMQ_4 + 5-IMQ_5 + 5-IMQ_7 + 5-IMQ_9 + 5-IMQ_10 + 5-IMQ_13)
         IMQdata <- IMQdata %>% dplyr::mutate(IMQ_SS = 5-IMQ_2 + 5-IMQ_14 + 5-IMQ_17 + 5-IMQ_18 + 5-IMQ_20 + 5-IMQ_21 + 5-IMQ_23 + 5-IMQ_24)
         IMQdata <- IMQdata %>% dplyr::mutate(IMQ_OS = IMQ_1 + IMQ_8 + IMQ_12 + IMQ_15 + IMQ_16 + IMQ_22)
-        IMQdata <- IMQdata%>% dplyr::mutate(total_study1 = IMQ_SO + IMQ_SS + IMQ_OS)
+        IMQdata <- IMQdata %>% dplyr::mutate(total_study1 = IMQ_SO + IMQ_SS + IMQ_OS)
 
 
 
-### option 2
+### Option 2
 
 Running Eprime and get the IMQ_SS, IMQ_SO, IMO_OS and total IMQ score automatically
 
@@ -24,7 +24,7 @@ IMQ_EN.ebs
 
 
 ## Chinese version
-### option 1
+### Option 1
 
 wenjuanxing(wjx.com) and using R to calculate the scores
 
@@ -35,7 +35,7 @@ IMQ_SS: 是社会交互中心理理论的元认知（自信程度）
 IMQ_OS: 是对于他人不能推论自己心理状态的自信
 
 
-### option 2
+### Option 2
 Running Eprime and get the IMQ_SS, IMQ_SO, IMO_OS and total IMQ score automatically
 
 IMQ_CN.ebs
@@ -47,8 +47,8 @@ IMQ_CN.ebs
 Qualtrics and using R to calculate the scores
 
 
-### option 2
-running Eprime and get the IMQ_SS, IMQ_SO, IMO_OS and total IMQ score automatically
+### Option 2
+Running Eprime and get the IMQ_SS, IMQ_SO, IMO_OS and total IMQ score automatically
 
 IMQ_JP.ebs
 
