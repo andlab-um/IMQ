@@ -54,7 +54,8 @@ IMQ_JP.ebs
 
 
 ## references
-1. Wu, H., Fung, B. J., & mobbs, d. (2019, July 31). Mentalizing during social interaction: the development and validation of the interactive mentalizing questionnaire. https://doi.org/10.31234/osf.io/g2zm8
-2. Wu, H., Liu, X., Hagan, C. C., & Mobbs, D. (2020). Mentalizing during social InterAction: A four component model. Cortex, 126, 242-252.
+1. Wu, H., Fung, B. J.s, & Mobbs, D. (2022). Mentalizing during social interaction: The development and validation of the interactive mentalizing questionnaire. Front. Psychol. 12:791835. https://www.frontiersin.org/articles/10.3389/fpsyg.2021.791835/full
+
+2. Wu, H., Liu, X., Hagan, C. C., & Mobbs, D. (2020). Mentalizing during social interAction: A four component model. Cortex, 126, 242-252.
 https://www.sciencedirect.com/science/article/pii/S0010945220300277
 
