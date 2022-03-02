@@ -12,7 +12,7 @@ Using R to calculate the scores, notice that IMQ_SO and IMQ_SS are reverse score
 
 ## English version 
 
-Please see [here](https://github.com/andlab-um/IMQ/blob/main/IMQ_EN.docx).
+Please see [here](https://github.com/andlab-um/IMQ/blob/main/IMQ_EN.xlsx)(excel) and [here](https://github.com/andlab-um/IMQ/blob/main/IMQ_EN.docx)(word).
 
 ## Chinese version
 
@@ -22,7 +22,7 @@ IMQ_SS: 是社会交互中心理理论的元认知（自信程度）
 
 IMQ_OS: 是对于他人不能推论自己心理状态的自信
 
-Please see [here](https://github.com/andlab-um/IMQ/blob/main/IMQ_CN.xlsx).
+Please see [here](https://github.com/andlab-um/IMQ/blob/main/IMQ_CN.xlsx)(excel) and [here](https://github.com/andlab-um/IMQ/blob/main/IMQ_CN.docx)(word).
 
 ## References
 1. Wu, H., Fung, B. J.s, & Mobbs, D. (2022). Mentalizing during social interaction: The development and validation of the interactive mentalizing questionnaire. Front. Psychol. 12:791835. https://www.frontiersin.org/articles/10.3389/fpsyg.2021.791835/full
