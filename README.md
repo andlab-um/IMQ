@@ -1,6 +1,11 @@
 # IMQ (interactive mentalizing questionnaire)
 
 For different versions of IMQ (haiyanwu3@gmail.com)
+我们收到了不同单位的申请使用量表的邮件，
+借此说明一下，我们的IMQ量表发表在OA期刊，正是为了方便大家的开放使用。
+因此，在这一文件夹公布的问卷属于公开资源，不需询问申请，即可直接使用。
+使用过程中有任何问题欢迎随时联系我（haiyanwu3@gmail.com）。
+感谢大家的关注！
 
 Using R to calculate the scores, notice that IMQ_SO and IMQ_SS are reverse scored:
 
