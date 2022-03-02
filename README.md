@@ -2,7 +2,7 @@
 
 For different versions of IMQ (haiyanwu3@gmail.com)
 
-Using R to calculate the scores
+Using R to calculate the scores, notice that IMQ_SO and IMQ_SS are reverse scored:
 
         #delete items 3 6 11 and 19
         IMQdata <- IMQdata %>% dplyr::mutate(IMQ_SO = 5-IMQ_4 + 5-IMQ_5 + 5-IMQ_7 + 5-IMQ_9 + 5-IMQ_10 + 5-IMQ_13)
