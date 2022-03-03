@@ -8,7 +8,7 @@ For different versions of IMQ (haiyanwu3@gmail.com)
 
 因此，在这一文件夹公布的问卷属于公开资源，不需询问申请，即可直接使用。
 
-使用过程中有任何问题欢迎随时联系我（haiyanwu3@gmail.com）和ANDlab的博士生李肇宁（yc17319@um.edu.mo）。
+使用过程中有任何问题欢迎随时联系我（haiyanwu3@gmail.com）或ANDlab的博士生李肇宁（yc17319@um.edu.mo）。
 
 感谢大家的关注！
 
