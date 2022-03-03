@@ -14,10 +14,9 @@ For different versions of IMQ (haiyanwu3@gmail.com)
 
 Using R to calculate the scores, notice that IMQ_SO and IMQ_SS are reverse scored:
 
-        #delete items 3 6 11 and 19
-        IMQdata <- IMQdata %>% dplyr::mutate(IMQ_SO = 5-IMQ_4 + 5-IMQ_5 + 5-IMQ_7 + 5-IMQ_9 + 5-IMQ_10 + 5-IMQ_13)
-        IMQdata <- IMQdata %>% dplyr::mutate(IMQ_SS = 5-IMQ_2 + 5-IMQ_14 + 5-IMQ_17 + 5-IMQ_18 + 5-IMQ_20 + 5-IMQ_21 + 5-IMQ_23 + 5-IMQ_24)
-        IMQdata <- IMQdata %>% dplyr::mutate(IMQ_OS = IMQ_1 + IMQ_8 + IMQ_12 + IMQ_15 + IMQ_16 + IMQ_22)
+        IMQdata <- IMQdata %>% dplyr::mutate(IMQ_SO = 5-IMQ_3 + 5-IMQ_4 + 5-IMQ_5 + 5-IMQ_7 + 5-IMQ_8 + 5-IMQ_10)
+        IMQdata <- IMQdata %>% dplyr::mutate(IMQ_SS = 5-IMQ_2 + 5-IMQ_11 + 5-IMQ_14 + 5-IMQ_15 + 5-IMQ_16 + 5-IMQ_17 + 5-IMQ_19 + 5-IMQ_20)
+        IMQdata <- IMQdata %>% dplyr::mutate(IMQ_OS = IMQ_1 + IMQ_6 + IMQ_9 + IMQ_12 + IMQ_13 + IMQ_18)
         IMQdata <- IMQdata %>% dplyr::mutate(total_study1 = IMQ_SO + IMQ_SS + IMQ_OS)
 
 ## English version 
