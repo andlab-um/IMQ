@@ -12,6 +12,16 @@ For different versions of IMQ (haiyanwu3@gmail.com)
 
 感谢大家的关注！
 
+We have been receiving emails from many teams asking for if they can use our scale. 
+
+To clarify, our IMQ scale was published in OA journals precisely to facilitate open use.
+
+In this case, the scale in this folder is an open resource that can be used without asking for our permission. 
+
+If you encountered any problems while using this scale, feel free to email me (haiyanwu3@gmail.com) or Zhaoning Li, a Ph.D. student from ANDlab (yc17319@um.edu.mo ).
+
+Thanks for all the attention!
+
 ----
 计分规则是：
 Using R to calculate the scores, notice that IMQ_SO and IMQ_SS are reverse scored:
