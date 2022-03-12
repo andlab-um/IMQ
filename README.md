@@ -55,3 +55,26 @@ Please see [here](https://github.com/andlab-um/IMQ/blob/main/IMQ_CN.xlsx) (excel
 2. Wu, H., Liu, X., Hagan, C. C., & Mobbs, D. (2020). Mentalizing during social interAction: A four component model. Cortex, 126, 242-252.
 https://www.sciencedirect.com/science/article/pii/S0010945220300277
 
+## bibtex citation
+1. 
+@ARTICLE{wu2022imq,  
+AUTHOR={Wu, Haiyan and Fung, Bowen J. and Mobbs, Dean},   	 
+TITLE={Mentalizing During Social Interaction: The Development and Validation of the Interactive Mentalizing Questionnaire},      	
+JOURNAL={Frontiers in Psychology},      	
+VOLUME={12},      	
+YEAR={2022},      	  
+URL={https://www.frontiersin.org/article/10.3389/fpsyg.2021.791835},       	
+DOI={10.3389/fpsyg.2021.791835},      	
+ISSN={1664-1078},   
+}
+
+2.
+@article{wu2020IMT,
+  title={Mentalizing during social InterAction: A four component model},
+  author={Wu, Haiyan and Liu, Xun and Hagan, Cindy C and Mobbs, Dean},
+  journal={Cortex},
+  volume={126},
+  pages={242--252},
+  year={2020},
+  publisher={Elsevier}
+}
