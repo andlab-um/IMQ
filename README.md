@@ -56,7 +56,8 @@ Please see [here](https://github.com/andlab-um/IMQ/blob/main/IMQ_CN.xlsx) (excel
 https://www.sciencedirect.com/science/article/pii/S0010945220300277
 
 ## Bibtex citation
-1
+
+1.
 
     @article{Wu2022,
         author = {Wu, Haiyan and Fung, Bowen J and Mobbs, Dean},
@@ -67,7 +68,7 @@ https://www.sciencedirect.com/science/article/pii/S0010945220300277
         year = {2022}
     }
 
-2
+2.
 
     @article{Wu2020,
         author = {Wu, Haiyan and Liu, Xun and Hagan, Cindy C. and Mobbs, Dean},
