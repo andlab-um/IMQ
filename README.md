@@ -56,24 +56,25 @@ Please see [here](https://github.com/andlab-um/IMQ/blob/main/IMQ_CN.xlsx) (excel
 https://www.sciencedirect.com/science/article/pii/S0010945220300277
 
 ## Bibtex citation
-1. 
-@ARTICLE{wu2022imq,  
-AUTHOR={Wu, Haiyan and Fung, Bowen J. and Mobbs, Dean},   	 
-TITLE={Mentalizing During Social Interaction: The Development and Validation of the Interactive Mentalizing Questionnaire},      	
-JOURNAL={Frontiers in Psychology},      	
-VOLUME={12},      	
-YEAR={2022},      	  
-URL={https://www.frontiersin.org/article/10.3389/fpsyg.2021.791835},       	
-DOI={10.3389/fpsyg.2021.791835},      	
-ISSN={1664-1078},   
-}
+1
+
+    @article{Wu2022,
+        author = {Wu, Haiyan and Fung, Bowen J and Mobbs, Dean},
+        doi = {10.3389/fpsyg.2021.791835},
+        journal = {Frontiers in Psychology},
+        title = {{Mentalizing During Social Interaction: The Development and Validation of the Interactive Mentalizing Questionnaire}},
+        volume = {12},
+        year = {2022}
+    }
+
+2
 
     @article{Wu2020,
-    author = {Wu, Haiyan and Liu, Xun and Hagan, Cindy C. and Mobbs, Dean},
-    doi = {10.1016/j.cortex.2019.12.031},
-    journal = {Cortex},
-    pages = {242--252},
-    title = {{Mentalizing during social InterAction: A four component model}},
-    volume = {126},
-    year = {2020}
+        author = {Wu, Haiyan and Liu, Xun and Hagan, Cindy C. and Mobbs, Dean},
+        doi = {10.1016/j.cortex.2019.12.031},
+        journal = {Cortex},
+        pages = {242--252},
+        title = {{Mentalizing during social InterAction: A four component model}},
+        volume = {126},
+        year = {2020}
     }
