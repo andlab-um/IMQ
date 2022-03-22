@@ -8,7 +8,7 @@ For different versions of IMQ (haiyanwu3@gmail.com)
 
 因此，在这一文件夹公布的问卷属于公开资源，不需询问申请，即可直接使用。
 
-使用过程中有任何问题欢迎随时联系我（haiyanwu3@gmail.com）或ANDlab的博士生李肇宁（yc17319@um.edu.mo）。
+使用过程中有任何问题欢迎随时联系我（haiyanwu3@gmail.com）或ANDlab的博士生李肇宁（yc17319@umac.mo）。
 
 感谢大家的关注！
 
@@ -18,7 +18,7 @@ To clarify, our IMQ scale was published in OA journals precisely to facilitate o
 
 In this case, the scale in this folder is an open resource that can be used without asking for our permission. 
 
-If you encountered any problems while using this scale, feel free to email me (haiyanwu3@gmail.com) or Zhaoning Li, a Ph.D. student from ANDlab (yc17319@um.edu.mo ).
+If you encountered any problems while using this scale, feel free to email me (haiyanwu3@gmail.com) or Zhaoning Li, a Ph.D. student from ANDlab (yc17319@umac.mo).
 
 Thanks for all the attention!
 
@@ -32,6 +32,12 @@ Using R to calculate the scores, notice that IMQ_SO and IMQ_SS are reverse score
         IMQdata <- IMQdata %>% dplyr::mutate(total_study1 = IMQ_SO + IMQ_SS + IMQ_OS)
 
 ## English version 
+
+IMQ_SO, the ability to infer the mental states and thoughts of others
+
+IMQ_SS, the ability to look inward to self-monitor and assess thought processes
+
+IMQ_OS, the ability to make inferences about how much insight one think other agents have into one's own thoughts and intentions
 
 Please see [here](https://github.com/andlab-um/IMQ/blob/main/IMQ_EN.xlsx) (excel) and [here](https://github.com/andlab-um/IMQ/blob/main/IMQ_EN.docx) (word).
 
