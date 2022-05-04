@@ -55,6 +55,10 @@ Please see [here](https://github.com/andlab-um/IMQ/blob/main/IMQ_CN.xlsx) (excel
 
 - Baidu Netdisk: https://pan.baidu.com/s/1PryshD7nJ-5QArv-FVaHqA password: wdbh
 
+## Following work
+
+- [Every individual makes a difference: A trinity derived from linking individual brain morphometry, connectivity and mentalising ability](https://github.com/andlab-um/trinity)
+
 ## References
 1. Wu, H., Fung, B. J.s, & Mobbs, D. (2022). Mentalizing during social interaction: The development and validation of the interactive mentalizing questionnaire. Front. Psychol. 12:791835. https://www.frontiersin.org/articles/10.3389/fpsyg.2021.791835/full
 
