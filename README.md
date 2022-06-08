@@ -1,6 +1,16 @@
 # IMQ (interactive mentalizing questionnaire)
 
+[![Twitter URL](https://img.shields.io/twitter/url?label=%40ANDlab3&style=social&url=https%3A%2F%2Ftwitter.com%2Flizhn7)](https://twitter.com/ANDlab3)
+[![Twitter URL](https://img.shields.io/twitter/url?label=%40lizhn7&style=social&url=https%3A%2F%2Ftwitter.com%2Flizhn7)](https://twitter.com/lizhn7)
+
+**Code and questionnaire for： <br />**
+**Wu, H., Fung, B. J., & Mobbs, D. (2022). Mentalizing during social interaction: the development and validation of the interactive mentalizing questionnaire.** *Frontiers in psychology*, *12*. <br />
+[DOI: 10.3389/fpsyg.2021.791835](https://doi.org/10.3389/fpsyg.2021.791835).
+
 For different versions of IMQ (haiyanwu3@gmail.com)
+
+Haiyan Wu1,2
+*, Bowen J. Fung2,3 and Dean Mobbs
 
 我们收到了不同单位的申请使用量表的邮件，
 
