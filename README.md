@@ -1,4 +1,4 @@
-# IMQ (interactive mentalizing questionnaire) <img src="https://github.com/andlab-um/IMQ/blob/main/demo.png" align="right" width="361px">
+# IMQ (interactive mentalization questionnaire) <img src="https://github.com/andlab-um/IMQ/blob/main/demo.png" align="right" width="361px">
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/andlab-um/IMQ?color=brightgreend&logo=github)](https://github.com/andlab-um/IMQ)
 [![DOI](https://img.shields.io/badge/DOI-10.3389%2Ffpsyg.2021.791835-blue)](https://doi.org/10.3389/fpsyg.2021.791835)<br />
