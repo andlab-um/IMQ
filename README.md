@@ -63,9 +63,10 @@ Please see [here](https://github.com/andlab-um/IMQ/blob/main/IMQ_CN.xlsx) (excel
 
 - Baidu Netdisk: https://pan.baidu.com/s/1PryshD7nJ-5QArv-FVaHqA password: wdbh
 
-## Following work
+## Outreach
 
-- [Every individual makes a difference: A trinity derived from linking individual brain morphometry, connectivity and mentalising ability](https://github.com/andlab-um/trinity)
+- Social media: WeChat ([ANDlab](https://mp.weixin.qq.com/s/Lzah0aAWXcqVsu0gpHgpNQ), [brainnews](https://mp.weixin.qq.com/s?__biz=MzU0NDk5ODUzMA==&amp;mid=2247502558&amp;idx=1&amp;sn=86d01eb7857fc3f9963dc9a4d7306b3f&token=1594686652&lang=zh_CN#wechat_redirect), [brainers](https://mp.weixin.qq.com/s?__biz=MzIxMTcxNzU3NA==&amp;mid=2247494546&amp;idx=1&amp;sn=5ee0a62534797422b524fdde1699b552&token=1594686652&lang=zh_CN#rd), [xueshuxinli](https://mp.weixin.qq.com/s?__biz=MzI4MDAzMDQ3NA==&amp;mid=2924704566&amp;idx=2&amp;sn=4488fb515a33502046eea12dfa3b6cc4&token=1594686652&lang=zh_CN#rd), [NCClab](https://mp.weixin.qq.com/s?__biz=MzI1MTc1MjQxMg==&amp;mid=2247487693&amp;idx=1&amp;sn=af2587dd50a082634140797ba2c1f5c8&token=1594686652&lang=zh_CN#rd))
+- Following work: [Every individual makes a difference: A trinity derived from linking individual brain morphometry, connectivity and mentalising ability](https://github.com/andlab-um/trinity)
 
 ## References
 1. Wu, H., Fung, B. J.s, & Mobbs, D. (2022). Mentalizing during social interaction: The development and validation of the interactive mentalizing questionnaire. Front. Psychol. 12:791835. https://www.frontiersin.org/articles/10.3389/fpsyg.2021.791835/full
