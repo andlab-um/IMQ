@@ -16,7 +16,7 @@ ___
 
 因此，在这一文件夹公布的问卷属于公开资源，不需询问申请，即可直接使用。
 
-使用过程中有任何问题欢迎随时联系我（haiyanwu3@gmail.com）或ANDlab的博士生李肇宁（yc17319@umac.mo）。
+使用过程中有任何问题欢迎随时联系我（haiyanwu3@gmail.com）。
 
 感谢大家的关注！
 
@@ -26,7 +26,7 @@ To clarify, our IMQ scale was published in OA journals precisely to facilitate o
 
 In this case, the scale in this folder is an open resource that can be used without asking for our permission. 
 
-If you encountered any problems while using this scale, feel free to email me (haiyanwu3@gmail.com) or Zhaoning Li, a Ph.D. student from ANDlab (yc17319@umac.mo).
+If you encountered any problems while using this scale, feel free to email me (haiyanwu3@gmail.com) .
 
 Thanks for all the attention!
 
